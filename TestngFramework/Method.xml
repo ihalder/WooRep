@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="whatever">
+<test name = "whatever">
+<!--<packages>
+<package name = "com">
+</package> 
+</packages>-->
+<classes> 
+<class name = "com.UnitTest">
+<methods>
+<include name = "login" ></include>
+<include name = "logout"></include>
+</methods>
+</class>
+</classes>
+</test>
+</suite>

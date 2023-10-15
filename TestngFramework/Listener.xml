@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="whatever">
+	<listeners>
+		<listener class-name = "dv.MyListener"></listener>
+	</listeners>
+	
+	<test name="whatever">
+		<packages>
+			<package name = "com"></package>
+		</packages>
+	</test>
+</suite>
